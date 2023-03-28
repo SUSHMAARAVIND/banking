@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: project
-        image: shreyastanik/project:latest
+        image: poojasush/project:latest
         ports:
         - containerPort: 3000
         
